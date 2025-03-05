@@ -1,0 +1,3 @@
+/Users/aidencox/git/cppLoopTypes/cmake-build-debug/CMakeFiles/cppLoopTypes.dir
+/Users/aidencox/git/cppLoopTypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aidencox/git/cppLoopTypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
